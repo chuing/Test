@@ -1,1 +1,3 @@
-<%=now()%>
+<%
+Response.Write now()
+%>

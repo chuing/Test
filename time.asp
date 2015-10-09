@@ -1,1 +1,4 @@
 <%=now()%>
+<%
+Response.Write "End"
+%>
