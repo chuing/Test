@@ -1,4 +1,0 @@
-<%=now()%>
-<%
-Response.Write "End"
-%>
